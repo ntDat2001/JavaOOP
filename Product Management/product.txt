@@ -1,0 +1,4 @@
+BH04, BinhHoa04, 2000.0, 40, Available
+BH01, BinhHoa01, 3000.0, 30, Available
+BH03, BinhHoa03, 4000.0, 40, Not Available
+BH02, BinhHoa02, 5000.0, 50, Not Available
